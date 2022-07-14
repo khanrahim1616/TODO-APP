@@ -73,6 +73,7 @@ button{
 textarea{
 border: none;
 outline: none;
+resize: none;
 }
 .note{
     margin: 10px ;
