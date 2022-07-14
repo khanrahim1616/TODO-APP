@@ -73,12 +73,14 @@ button{
 textarea{
 border: none;
 outline: none;
-/* font-size: 18px; */
 }
 .note{
     margin: 10px ;
     width: 250px;
     height: 198px;
+}
+.main{
+word-break: break-all;
 }
 .hidden{
     display: none;
